@@ -5,5 +5,5 @@ module.exports = {
     db_host: 'localhost',
     db_name: 'vanbandb',
     db_user: 'root',
-    db_password: 'Tynguyen1412!'
+    db_password: '123456'
 };
